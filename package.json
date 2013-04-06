@@ -14,16 +14,16 @@
     "node": ">= 0.4.1"
   },
   "dependencies": {
-    "gm": "1.4.1",
+    "gm": "latest",
     "pkgcloud": "latest",
-    "knox": "0.3.1",
-    "mime": "1.2.5",
-    "async": "0.1.22",
-    "underscore": "1.3.3"
+    "knox": "latest",
+    "mime": "latest",
+    "async": "latest",
+    "underscore": "latest"
   },
   "devDependencies": {
-    "mocha": "1.0.3",
-    "should": "0.6.3"
+    "mocha": "latest",
+    "should": "latest"
   },
   "scripts": {
     "test": "make test"
